@@ -1,0 +1,2 @@
+[01-Oct-2018 02:35:28 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/lisabalbach/public_html/mill1159/CIT228/Lesson4/sessionExample.php on line 110
+[01-Oct-2018 02:35:33 UTC] PHP Notice:  Undefined index:  PHP_SELF  in /home/lisabalbach/public_html/mill1159/CIT228/Lesson4/writeToFile.php on line 121
