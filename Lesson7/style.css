@@ -1,0 +1,12 @@
+html {
+    background-color: dodgerblue;
+}
+
+.jumbotron {font-family: "Amatic SC", cursive; background-color: #ff7f50; padding: 1px;}
+.jumbotron h1 {font-size: 72px;}
+
+.main-section {
+    text-align: center;
+}
+
+

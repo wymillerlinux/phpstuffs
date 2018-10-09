@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+html {
+  background-image: url(../media/img.png);
+}
+
+form {
+  border-radius: 25px;
+  background-color: #3792af;
+  padding: 10px;
+  font-family: "Raleway", sans-serif;
+  width: 35%;
+  float: left;
+}
+
+.container {
+  border-radius: 25px;
+  background-color: #d56161;
+  padding: 10px;
+  font-family: "Raleway", sans-serif;
+}
